@@ -1,0 +1,6 @@
+{
+  "name": "Ad-Free",
+  "description": "A warm, minimalist sanctuary to gently unbind habits with sovereign focus spaces, daily check-ins, growth architecture, mindful rewards, and recovery insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
